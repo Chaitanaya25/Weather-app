@@ -24,8 +24,6 @@ Search any city to instantly view **temperature**, **humidity**, **wind speed**,
 
 ---
 
-## 📸 Screenshots  
-
 ### Patna  
 # 🌦️ Weather App
 
